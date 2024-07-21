@@ -29,6 +29,12 @@ Here are some of the projects I've worked on:
 - Successfully developed and deployed multiple projects.
 - Continuously learning and improving coding skills through various projects and challenges.
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielThatu47&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielThatu47&layout=compact&theme=radical)
+![Commits](https://github-readme-activity-graph.cyclic.app/graph?username=DanielThatu47&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielThatu47&theme=radical)
+
 ## 🌐 Social Links
 - [LinkedIn](https://www.linkedin.com/in/daniel-thatu-32933322a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](mailto:danielthatu10@gmail.com)
@@ -37,5 +43,3 @@ Here are some of the projects I've worked on:
 ---
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just have a chat!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielThatu47&show_icons=true&theme=radical)
