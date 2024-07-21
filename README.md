@@ -35,6 +35,9 @@ Here are some of the projects I've worked on:
 ![Commits](https://github-readme-activity-graph.cyclic.app/graph?username=DanielThatu47&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielThatu47&theme=radical)
 
+## 📈 Commits
+![Commits Icon](https://img.icons8.com/color/48/000000/git-commit.png) 
+
 ## 🌐 Social Links
 - [LinkedIn](https://www.linkedin.com/in/daniel-thatu-32933322a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](mailto:danielthatu10@gmail.com)
