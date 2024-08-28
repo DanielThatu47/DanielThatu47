@@ -4,10 +4,10 @@
 [![GitHub Followers](https://img.shields.io/github/followers/DanielThatu47?style=social)](https://github.com/DanielThatu47?tab=followers)
 
 ## About Me
-I'm a passionate developer with a background in Accounting and Finance. I love to work on projects that involve problem-solving and innovation. Here’s a bit more about me:
+I'm a passionate developer with a background in Software Development and Web Development. I love to work on projects that involve problem-solving and innovation. Here’s a bit more about me:
 
 - 🔭 I’m currently working on enhancing my skills in web development.
-- 🌱 I’m currently learning advanced JavaScript and Python.
+- 🌱 I’m currently learning advanced JavaScript and Java.
 - 💬 Ask me about anything related to finance, accounting, and software development.
 - 📫 How to reach me: [danielthatu10@gmail.com](mailto:danielthatu10@gmail.com)
 
