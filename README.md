@@ -15,7 +15,7 @@ I'm a passionate developer with a background in Software Development and Web Dev
 Here are some of the projects I've worked on:
 
 - **[EzQuiz](https://github.com/DanielThatu47/EzQuiz):** An E-Learning Management System inspired by Google Classroom, designed to help teachers create, distribute, and manage assignments, as well as communicate with their students. [Deployment Link](https://class-zone.onrender.com)
-- **[Jay React](https://github.com/DanielThatu47/Jay_react):** A React project bootstrapped with Create React App, showcasing various front-end development skills.
+- **[NGO Platform](https://github.com/DanielThatu47/Jay_react):** A React project bootstrapped with Create React App, showcasing various front-end development skills.
 - **[Prodigy Task 3](https://github.com/DanielThatu47/Prodigy_Task3):** A task-based project focusing on problem-solving and algorithm development.
 - **[First Repository](https://github.com/DanielThatu47/First-Repository):** The initial repository for exploring and learning GitHub functionalities.
 
