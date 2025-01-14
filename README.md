@@ -41,7 +41,7 @@ Here are some of the projects I've worked on:
 
 
 ## 🌐 Social Links
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielthatu) 
+- <i class="fab fa-linkedin"></i>(https://linkedin.com/in/danielthatu) 
 - [Email](mailto:danielthatu10@gmail.com)
 - **Phone:** 9730728411
 
