@@ -41,7 +41,7 @@ Here are some of the projects I've worked on:
 
 
 ## 🌐 Social Links
-- <i class="fab fa-linkedin"></i>(https://linkedin.com/in/danielthatu) 
+- <img src="https://raw.githubusercontent.com/user/repo/main/linkedin.svg" width="20"/>https://linkedin.com/in/danielthatu) 
 - [Email](mailto:danielthatu10@gmail.com)
 - **Phone:** 9730728411
 
