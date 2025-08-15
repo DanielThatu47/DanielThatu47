@@ -18,9 +18,9 @@ I'm a passionate **Full Stack Developer** with expertise in **Software Developme
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="20"/> Currently enhancing my **web development** skills
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> Learning **Advanced JavaScript** and **Java**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handshake/handshake-original.svg" width="20"/> Open to **collaboration** on innovative projects  
+- 🔭 Currently enhancing my **web development** skills
+- 🌱 Learning **Advanced JavaScript** and **Java**
+- 🤝 Open to **collaboration** on innovative projects  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="20"/> Ask me about **Finance**, **Accounting**, and **Software Development**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zany%20Face.png" width="20"/> Fun fact: I love turning complex problems into simple solutions!
 
@@ -30,11 +30,58 @@ I'm a passionate **Full Stack Developer** with expertise in **Software Developme
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **EzQuiz** | E-Learning Management System inspired by Google Classroom | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/DanielThatu47/EzQuiz) [![Demo](https://img.shields.io/badge/-Live%20Demo-00d8ff?style=flat-square&logo=vercel)](https://class-zone.onrender.com) |
-| **NGO Platform** | React-based platform showcasing frontend skills | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/DanielThatu47/Jay_react) |
-| **Prodigy Task 3** | Problem-solving and algorithm development project | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/DanielThatu47/Prodigy_Task3) |
+### 🎓 **EzQuiz - E-Learning Management System**
+[![EzQuiz Preview](https://img.shields.io/badge/🌟-Featured%20Project-gold?style=for-the-badge)](https://class-zone.onrender.com)
+
+**📖 Description:** A comprehensive E-Learning Management System inspired by Google Classroom. Helps teachers create, distribute, and manage assignments while facilitating seamless communication with students.
+
+**🛠️ Tech Stack:**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+
+**🚀 Quick Links:**
+<br/>
+[![GitHub Repo](https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielThatu47/EzQuiz)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-00d8ff?style=for-the-badge&logo=vercel&logoColor=white)](https://class-zone.onrender.com)
+
+---
+
+### 🌟 **NGO Platform - Frontend Showcase**
+[![NGO Platform Preview](https://img.shields.io/badge/⚡-Frontend%20Focus-purple?style=for-the-badge)](https://github.com/DanielThatu47/Jay_react)
+
+**📖 Description:** A modern React-based platform showcasing advanced frontend development skills with responsive design and interactive user interfaces.
+
+**🛠️ Tech Stack:**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+**🚀 Quick Links:**
+<br/>
+[![GitHub Repo](https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielThatu47/Jay_react)
+
+---
+
+### ⚡ **Prodigy Task 3 - Algorithm Solutions**
+[![Prodigy Preview](https://img.shields.io/badge/🧠-Problem%20Solving-orange?style=for-the-badge)](https://github.com/DanielThatu47/Prodigy_Task3)
+
+**📖 Description:** Advanced problem-solving and algorithm development project focusing on efficient coding solutions and data structure implementations.
+
+**🛠️ Tech Stack:**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algorithms"/>
+
+**🚀 Quick Links:**
+<br/>
+[![GitHub Repo](https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielThatu47/Prodigy_Task3)
+
+### 💡 **Want to see more projects?**
+[![Portfolio](https://img.shields.io/badge/🔗%20View%20All%20Projects-Visit%20My%20GitHub-00d8ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielThatu47?tab=repositories)
 
 </div>
 
@@ -127,11 +174,19 @@ I'm a passionate **Full Stack Developer** with expertise in **Software Developme
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25"/> Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25"/> Contribution Activity
 
 <div align="center">
 
-![Snake animation](https://github.com/DanielThatu47/DanielThatu47/blob/output/github-contribution-grid-snake.svg)
+<!-- Note: To enable snake animation, you need to set up GitHub Actions in your profile repo -->
+<!-- Create .github/workflows/snake.yml with the snake animation workflow -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielThatu47/DanielThatu47/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielThatu47/DanielThatu47/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielThatu47/DanielThatu47/output/github-contribution-grid-snake.svg">
+</picture>
+
+*📝 Note: If the snake animation doesn't appear, you need to set up GitHub Actions workflow. [Learn how to set it up here](https://github.com/Platane/snk)*
 
 </div>
 
