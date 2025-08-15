@@ -4,9 +4,9 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Innovation+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Profile%20Views-12345-blue?style=for-the-badge&logo=eye&logoColor=white"/>
-<img src="https://img.shields.io/badge/Followers-123-blue?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-456-blue?style=for-the-badge&logo=star&logoColor=white"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=DanielThatu47&color=00d8ff&style=for-the-badge&label=Profile+Views)](https://github.com/DanielThatu47)
+[![GitHub Followers](https://img.shields.io/github/followers/DanielThatu47?style=for-the-badge&color=00d8ff&labelColor=black&logo=github)](https://github.com/DanielThatu47?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/DanielThatu47?style=for-the-badge&color=00d8ff&labelColor=black&logo=star)](https://github.com/DanielThatu47)
 
 </div>
 
